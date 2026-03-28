@@ -11,11 +11,6 @@ thumbnail: "https://i.pinimg.com/736x/97/5b/e4/975be4e103206734e03e332bcbc4c7be.
 # A Quiet Morning in the City  
 
 
-
-<div style="width: 50%; margin: auto;">
-  ![Street coffee shop](https://i.pinimg.com/736x/e8/7e/af/e87eaf42e52f9466632f00d05ea80a91.jpg)
-</div>
-
 It was one of those mornings where the light felt soft and deliberate, not harsh like the usual noon sun. The streets were still half‑empty, and the air carried a faint smell of coffee and fresh bread.
 
 Everything moved slower, and for once it felt okay not to rush.
