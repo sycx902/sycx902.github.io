@@ -6,7 +6,7 @@ tags: ["life", "photography"]
 thumbnail: "https://i.pinimg.com/736x/97/5b/e4/975be4e103206734e03e332bcbc4c7be.jpg"
 ---
 
-![](https://i.pinimg.com/736x/97/5b/e4/975be4e103206734e03e332bcbc4c7be.jpg)
+![Full-Size mornings](https://i.pinimg.com/736x/97/5b/e4/975be4e103206734e03e332bcbc4c7be.jpg)
 
 # A Quiet Morning in the City  
 
@@ -28,4 +28,4 @@ That moment reminded me that sometimes the best stories don’t start with a gra
 
 ---
 
-![](https://i.pinimg.com/736x/e8/7e/af/e87eaf42e52f9466632f00d05ea80a91.jpg)
+![https://i.pinimg.com/736x/e8/7e/af/e87eaf42e52f9466632f00d05ea80a91.jpg)](https://i.pinimg.com/736x/e8/7e/af/e87eaf42e52f9466632f00d05ea80a91.jpg)
