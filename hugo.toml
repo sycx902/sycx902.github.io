@@ -16,7 +16,7 @@ theme = "mana"
 
 
  [params.avatar]
-  url = "static/images/arc.jpg"
+  url = "static/images/arc.png"
   # url = "https://res.cloudinary.com/dzbcjm3ar/image/upload/v1728524523/902/902.gif"
 
 
