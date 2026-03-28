@@ -1,0 +1,29 @@
+---
+title: "My escape room"
+date: "2026-03-28"
+draft: false
+tags: ["life", "hugo"]
+thumbnail: "https://i.pinimg.com/736x/97/5b/e4/975be4e103206734e03e332bcbc4c7be.jpg"
+---
+
+![My escape room](https://i.pinimg.com/736x/97/5b/e4/975be4e103206734e03e332bcbc4c7be.jpg)
+
+# My escape room 
+
+Buah hasil dari kegabutan malah jadi hugo-blog, mayan lagh buat escape room
+
+## Empty Time And Noisy Head
+
+So, this one is based on my opion, my best cure for my boredness is create something ( *walaupun jujur gak tau tadinya mau bikin apaan* ).
+Udah lama sebenernya pengen ada blog pribadi, tapi sayang rasa malas lebih sering menang daripada kemauan.
+Berawal dari iseng buka folder nemu blog Hugo yang dulu blom selesai di buat, iseng otak-atik sebentar karena bosan akhirnya jadi juga deh.
+Khan lumayan buat buat belajar nulis, documentasi fail trade, hacking, and more stuff.
+
+## A Cup of Coffee and a Pause  
+
+In one small café by the corner, an elderly man sat alone with a small espresso and a notebook. He wasn’t in a hurry. He simply watched the street, writing something down, then looking up again.
+
+That moment reminded me that sometimes the best stories don’t start with a grand plan—they start with a cup of coffee and a quiet decision to pay attention.
+
+---
+![https://i.pinimg.com/736x/e8/7e/af/e87eaf42e52f9466632f00d05ea80a91.jpg)](https://i.pinimg.com/736x/e8/7e/af/e87eaf42e52f9466632f00d05ea80a91.jpg)

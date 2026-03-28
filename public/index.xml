@@ -6,49 +6,14 @@
     <description>Recent content on 902-Rooms</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2026 14:39:12 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ini Post Ketiga</title>
-      <link>http://localhost:1313/posts/ini-post-ketiga/</link>
-      <pubDate>Sat, 28 Mar 2026 14:39:12 +0700</pubDate>
-      <guid>http://localhost:1313/posts/ini-post-ketiga/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Second</title>
-      <link>http://localhost:1313/posts/second/</link>
-      <pubDate>Sat, 28 Mar 2026 13:41:58 +0700</pubDate>
-      <guid>http://localhost:1313/posts/second/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>First</title>
-      <link>http://localhost:1313/posts/first/</link>
-      <pubDate>Sat, 28 Mar 2026 13:41:51 +0700</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Exploring a Quiet Morning in the City</title>
-      <link>http://localhost:1313/posts/post-testing/</link>
+      <title>My escape room</title>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post-testing/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://i.pinimg.com/736x/97/5b/e4/975be4e103206734e03e332bcbc4c7be.jpg&#34; alt=&#34;Full-Size mornings&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;a-quiet-morning-in-the-city&#34;&gt;A Quiet Morning in the City&lt;/h1&gt;&#xA;&lt;p&gt;It was one of those mornings where the light felt soft and deliberate, not harsh like the usual noon sun. The streets were still half‑empty, and the air carried a faint smell of coffee and fresh bread.&lt;/p&gt;&#xA;&lt;p&gt;Everything moved slower, and for once it felt okay not to rush.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-light-through-the-windows&#34;&gt;The Light Through the Windows&lt;/h2&gt;&#xA;&lt;p&gt;As the sun rose higher, the light began to cut through the windows of old brick buildings. The narrow alleys turned into long lines of gold and shadow, and every parked bike, every window frame, every cracked wall suddenly had a role in the scene.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Second Post</title>
-      <link>http://localhost:1313/posts/my-second-post/</link>
-      <pubDate>Fri, 16 Jan 2026 15:48:58 +0700</pubDate>
-      <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Fri, 16 Jan 2026 15:06:48 +0700</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://i.pinimg.com/736x/97/5b/e4/975be4e103206734e03e332bcbc4c7be.jpg&#34; alt=&#34;My escape room&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;my-escape-room&#34;&gt;My escape room&lt;/h1&gt;&#xA;&lt;p&gt;Buah hasil dari kegabutan malah jadi hugo-blog, mayan lagh buat escape room&lt;/p&gt;&#xA;&lt;h2 id=&#34;empty-time-and-noisy-head&#34;&gt;Empty Time And Noisy Head&lt;/h2&gt;&#xA;&lt;p&gt;So, this one is based on my opion, my best cure for my boredness is create something ( &lt;em&gt;walaupun jujur gak tau tadinya mau bikin apaan&lt;/em&gt; ).&#xA;Udah lama sebenernya pengen ada blog pribadi, tapi sayang rasa malas lebih sering menang daripada kemauan.&#xA;Berawal dari iseng buka folder nemu blog Hugo yang dulu blom selesai di buat, iseng otak-atik sebentar karena bosan akhirnya jadi juga deh.&#xA;Khan lumayan buat buat belajar nulis, documentasi fail trade, hacking, and more stuff.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
