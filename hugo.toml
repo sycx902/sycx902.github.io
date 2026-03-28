@@ -1,5 +1,5 @@
 baseURL = "https://sycx902.github.io/"
-languageCode = 'en-us'
+languageCode = "en-us"
 title = "902 Rooms"
 theme = "mana"
 
