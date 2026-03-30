@@ -2,7 +2,7 @@
 
 .scroll-to-top {
   position: fixed;
-  bottom: calc(var(--spacing-lg) + 60px);
+  bottom: calc(var(--spacing-lg) + 40px);
   right: var(--spacing-lg);
   width: 50px;
   height: 50px;
@@ -32,8 +32,8 @@
 }
 
 .scroll-to-top svg {
-  width: 1.5rem;
-  height: 1.5rem;
+  width: 2rem;
+  height: 2rem;
   background-color: aqua;
   border-radius: 50%;
 }
