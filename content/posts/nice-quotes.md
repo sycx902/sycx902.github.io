@@ -56,5 +56,4 @@ Keep journaling...
 
 ---
 
-![https://res.cloudinary.com/dgitmsg6a/image/upload/v1774861462/Untitled-1_eflbmk.png](https://res.cloudinary.com/dgitmsg6a/image/upload/v1774861462/Untitled-1_eflbmk.png)
-
+![my center image](https://res.cloudinary.com/dgitmsg6a/image/upload/v1774861462/Untitled-1_eflbmk.png#center)
