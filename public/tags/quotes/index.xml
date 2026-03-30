@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Life on 902-Rooms</title>
-    <link>http://localhost:1313/tags/life/</link>
-    <description>Recent content in Life on 902-Rooms</description>
+    <title>Quotes on 902-Rooms</title>
+    <link>http://localhost:1313/tags/quotes/</link>
+    <description>Recent content in Quotes on 902-Rooms</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Mar 2026 13:28:27 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nice Quotes</title>
       <link>http://localhost:1313/posts/nice-quotes/</link>
       <pubDate>Mon, 30 Mar 2026 13:28:27 +0700</pubDate>
       <guid>http://localhost:1313/posts/nice-quotes/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;scontent.fpnh18-4.fna.fbcdn.net/v/t39.30808-6/655585121_122217937340291520_231974533853437744_n.jpg&#34; alt=&#34;You Risk More When You Don&amp;rsquo;t Risk &#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;you-risk-more-when-you-dont-risk&#34;&gt;You Risk More When You Don&amp;rsquo;t Risk&lt;/h1&gt;&#xA;&lt;p&gt;Kalimat pertama yang akan muncul mungkin &amp;ldquo;Kok bisa ?&amp;rdquo;, atau mungkin &amp;ldquo;Kenapa begitu ?&amp;rdquo;.&#xA;Nah, itu dia gw juga kepikiran kenapa kok begitu yak.&lt;/p&gt;&#xA;&lt;h2 id=&#34;empty-time-and-noisy-head&#34;&gt;Empty Time And Noisy Head&lt;/h2&gt;&#xA;&lt;p&gt;So, this one is based on my opion, my best cure for my boredness is create something ( &lt;em&gt;walaupun jujur gak tau tadinya mau bikin apaan&lt;/em&gt; ).&#xA;Udah lama sebenernya pengen ada blog pribadi, tapi sayang rasa malas lebih sering menang daripada kemauan.&#xA;Berawal dari iseng buka folder nemu blog Hugo yang dulu blom selesai di buat, iseng otak-atik sebentar karena bosan akhirnya jadi juga deh.&#xA;Khan lumayan buat buat belajar nulis, documentasi fail trade, hacking, and more stuff.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My escape room</title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://i.pinimg.com/736x/97/5b/e4/975be4e103206734e03e332bcbc4c7be.jpg&#34; alt=&#34;My escape room&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;my-escape-room&#34;&gt;My escape room&lt;/h1&gt;&#xA;&lt;p&gt;Buah hasil dari kegabutan malah jadi hugo-blog, mayan lagh buat escape room&lt;/p&gt;&#xA;&lt;h2 id=&#34;empty-time-and-noisy-head&#34;&gt;Empty Time And Noisy Head&lt;/h2&gt;&#xA;&lt;p&gt;So, this one is based on my opion, my best cure for my boredness is create something ( &lt;em&gt;walaupun jujur gak tau tadinya mau bikin apaan&lt;/em&gt; ).&#xA;Udah lama sebenernya pengen ada blog pribadi, tapi sayang rasa malas lebih sering menang daripada kemauan.&#xA;Berawal dari iseng buka folder nemu blog Hugo yang dulu blom selesai di buat, iseng otak-atik sebentar karena bosan akhirnya jadi juga deh.&#xA;Khan lumayan buat buat belajar nulis, documentasi fail trade, hacking, and more stuff.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
