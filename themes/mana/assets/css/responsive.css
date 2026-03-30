@@ -192,6 +192,7 @@
   .header-logo {
     flex: 1 1 auto;
     min-width: 0;
+    padding-left: 2%
   }
 
   .header-logo .logo-link {
