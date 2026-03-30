@@ -26,4 +26,5 @@ In one small café by the corner, an elderly man sat alone with a small espresso
 That moment reminded me that sometimes the best stories don’t start with a grand plan—they start with a cup of coffee and a quiet decision to pay attention.
 
 ---
-![https://i.pinimg.com/736x/e8/7e/af/e87eaf42e52f9466632f00d05ea80a91.jpg)](https://i.pinimg.com/736x/e8/7e/af/e87eaf42e52f9466632f00d05ea80a91.jpg)
+![relax](https://res.cloudinary.com/dgitmsg6a/image/upload/v1774861462/Untitled-1_eflbmk.png#center)
+
