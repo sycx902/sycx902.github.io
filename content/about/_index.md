@@ -7,8 +7,8 @@ layout = "single"
 
 # About Me
 
-Write your bio here. Tell visitors about yourself!
+Random journal experience  
+Nothing interesting in here, just my own world
 
-- **Experience**: Random journal experience
 - **Location**: Earth 
 - **Built with**: Hugo + Mana theme + ☕
