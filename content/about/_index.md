@@ -8,7 +8,8 @@ layout = "single"
 # About Me
 
 Random journal experience  
-Nothing interesting in here, just my own world
+Nothing interesting in here, just my own world  
+A journey to taming my wild soul
 
-- **Location**: Earth 
+- **Location**: Currently im still on earth 
 - **Built with**: Hugo + Mana theme + ☕
