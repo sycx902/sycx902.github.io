@@ -18,9 +18,6 @@ thumbnail = 'https://i.pinimg.com/736x/36/8a/03/368a039336dbf8ffad3feda4741be8de
 
 "*Icanicant*" biasanya terjadi karena focus yang terbelah, oleh dua pengetahuan atau lebih, sehingga terjadi perpecahan dalam diri sisi logika, yang berkata bahwa kamu bisa, dan di sisi perasaan merasakan takut secara bersamaan.   
 
-Ini yang barusan gw rasain setelah barusan gw lost $15. Bukan perkara dari nominalnya, tapi tentang penghianatan kesekian kalinya ke sistem yang udah dibangun sendiri. Sehingga kembali gagal mengolah *emosi* dalam trading.
-
-
-Barusan abis loss $15, tapi berasa nyesek banget, bukan karena nominalnya, tapi karena kesekian kalinya gagal mengolah emosi. 100% dari margin is gone gitu aja.  
+Ini yang barusan gw rasain setelah barusan gw lost $15. Bukan perkara dari nominalnya, tapi tentang penghianatan kesekian kalinya ke sistem yang udah dibangun sendiri. Sehingga kembali gagal mengolah *emosi* dalam trading. 100% dari margin is gone gitu aja.  
 So, i have to postponed the project.  
 
