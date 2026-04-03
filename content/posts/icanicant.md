@@ -1,6 +1,6 @@
 +++
 date = '2026-04-01T13:17:38+07:00'
-draft = true
+draft = false
 title = 'Icanicant'
 thumbnail = 'https://i.pinimg.com/736x/36/8a/03/368a039336dbf8ffad3feda4741be8de.jpg'
 +++
